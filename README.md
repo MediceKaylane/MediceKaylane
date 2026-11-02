@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Kaylane Medice**](https://www.linkedin.com/in/kaylane-medice-1a9653256/), a Computer Science student interested in Software Development and Artificial Intelligence.
+I'm [**Kaylane Medice**](https://kaylaneportifolio.com/), a Computer Science student interested in Software Development and Artificial Intelligence.
 
 I currently work as an intern at **EDP**, where I'm gaining experience with technology, data analytics, and process automation. I'm interested in building software solutions that solve real-world problems and exploring how AI can improve the way we work.
 
