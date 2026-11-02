@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Kaylane! 
 
-Computer Science Student
-EDP Intern
-Interested in Software Development and Artificial Intelligence
-Learning by building practical projects and solving real-world problems.
+Computer Science Student <br>
+EDP Intern <br>
+Interested in Software Development and Artificial Intelligence <br>
+Learning by building practical projects and solving real-world problems. <br>
 
 ## About Me
 
