@@ -1,37 +1,21 @@
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**MediceKaylane/MediceKaylane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [**Kaylane Medice**](https://www.linkedin.com/in/kaylane-medice-1a9653256/), a Computer Science student interested in Software Development and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I currently work as an intern at **EDP**, where I'm gaining experience with technology, data analytics, and process automation. I'm interested in building software solutions that solve real-world problems and exploring how AI can improve the way we work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Kaylane! 
+My interests include Generative AI, Software Engineering, Data Analytics, and automation. I enjoy learning new technologies, developing practical projects, and turning ideas into useful solutions.
 
-Computer Science Student <br>
-EDP Intern <br>
-Interested in Software Development and Artificial Intelligence <br>
-Learning by building practical projects and solving real-world problems. <br>
+Outside of coding, I'm always looking for opportunities to learn, challenge myself, and grow both personally and professionally.
 
-## About Me
+#### Let's connect!
 
-I'm a Computer Science student passionate about technology and continuous learning.
-
-I'm interested in developing software solutions, exploring artificial intelligence, and understanding how technology can improve processes.
-
-## Areas of Interest
-
-- Artificial Intelligence & Generative AI
-- Software Engineering
-- Data Analytics
-- Process Automation
+<a href="https://www.linkedin.com/in/kaylane-medice-1a9653256/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>
 
 ---
 
